@@ -1,1 +1,9 @@
-https://raw.githubusercontent.com/username108995561/database/refs/heads/main/config.js
+{
+    "creator": "https://wa.me/6287753318478",
+    "access": [
+      "087753318478"
+    ],
+    "access_bot": [
+      "087753318478"
+    ]
+}
